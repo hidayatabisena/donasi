@@ -8,3 +8,5 @@ Video: [Youtube](https://www.youtube.com/channel/UCXOtCCPeHgB-_8vUaREQKSg/featur
 Mayar: [Mayar.id](https://mayar.id/en)
 
 ![Landing Page Donation Demo Mayar](/preview.png)
+
+URL: https://mayarberdonasi.netlify.app/
